@@ -1,4 +1,4 @@
-# LightCrossGait: Lightweight Cross-Modal Gait Generation and Analysis Model
+# LightCrossGait: Lightweight Cross-Modal Gait Recognition
 
 ## Introduction
 
